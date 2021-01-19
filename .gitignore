@@ -1,0 +1,7 @@
+.terraform
+.terraform*
+*.yaml
+
+.idea
+Dockerfile
+terraform.*
