@@ -1,10 +1,12 @@
 .terraform
 .terraform*
 
-github.yaml
+aws.yaml
+provider.yaml
 workflow.yaml
 
 .idea
 Dockerfile
 terraform.*
 provider.tf
+variables.tf
