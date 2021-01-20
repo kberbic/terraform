@@ -1,6 +1,8 @@
 .terraform
 .terraform*
-*.yaml
+
+github.yaml
+workflow.yaml
 
 .idea
 Dockerfile
